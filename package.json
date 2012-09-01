@@ -1,0 +1,12 @@
+{
+	"name": "gruntjs.com",
+	"version": "0.1.0",
+	"homepage": "http://gruntjs.com",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"grunt-contrib": "~0.1.x",
+		"grunt-webpack": "0.3.x",
+		"YamYam": "0.2.x"
+	}
+}
